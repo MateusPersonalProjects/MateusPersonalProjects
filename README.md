@@ -18,7 +18,7 @@
 
 #
 
-![Mateus' GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusPersonalProjects'&show_icons=true&theme=onedark)
+![Mateus' GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusPersonalProjects&show_icons=true&theme=onedark)
 
 
 
