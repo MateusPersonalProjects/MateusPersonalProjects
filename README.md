@@ -20,7 +20,7 @@
 #
 
 ![Mateus' GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusPersonalProjects&show_icons=true&theme=onedark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPersonalProjects/&layout=compact)
 
 
 
