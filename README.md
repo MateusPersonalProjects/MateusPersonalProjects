@@ -1,4 +1,6 @@
-# 🧑‍💻 Mateus Oliveira
+# Howdy 🤠 ![HeyLadiesSweetGIF](https://github.com/user-attachments/assets/851358ec-ebea-4a85-b4a2-c2f832631b52)
+
+## 🧑‍💻 About Me
 
 **`Data Science & Sofware Development`**
 
