@@ -1,7 +1,7 @@
-# Howdy 🤠 ![HeyLadiesSweetGIF](https://github.com/user-attachments/assets/851358ec-ebea-4a85-b4a2-c2f832631b52)
+# Howdy 🤠
 
 ## 🧑‍💻 About Me
-
+<img src="https://github.com/user-attachments/assets/851358ec-ebea-4a85-b4a2-c2f832631b52" align="right" width="150" height="150">
 **`Data Science & Sofware Development`**
 
 ### 🕹Languages and Tools
